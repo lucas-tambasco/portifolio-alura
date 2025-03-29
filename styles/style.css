@@ -58,6 +58,11 @@ body {
     font-family: var(--fonte-secudaria);
 }
 
+.apresentacao__conteudo__subtitulo {
+    font-size: 1.5rem;
+    font-family: var(--fonte-secudaria);
+}
+
 .titulo-destaque {
     color: var(--cor-terciaria);
 }
